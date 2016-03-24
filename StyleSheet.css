@@ -1,0 +1,23 @@
+﻿body {
+    margin:0px; padding:0px;
+}
+
+.contain{
+border:1px solid blue;
+    
+}
+.panel1 {
+
+    padding:30px;
+}
+.column2{
+    border-right:1px solid red;
+   
+    
+}
+#child1 , #child2 , #child3{
+    position:absolute;
+   
+    border:1px solid;
+    padding:20px;
+}
